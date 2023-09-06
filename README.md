@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/87043648/266131871-707a35a9-b90a-4897-872a-a78693aa74d1.gif" align="right">
+<img src="https://user-images.githubusercontent.com/87043648/266134416-cd4a3698-336b-4aa6-8e5b-f6d84a2eead2.gif">
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
