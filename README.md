@@ -4,6 +4,6 @@
     <summary><h1 style="display: inline-block">Hi 👋, I'm Misa</h1></summary>
   </ul>
 </div>
-<img src="https://user-images.githubusercontent.com/87043648/266137843-579bbd40-fb27-4360-a360-7100e3a15c91.gif">
+<img src="https://user-images.githubusercontent.com/87043648/266140705-7216f9ca-6e4c-44de-ac9b-b7f7a08f431c.gif">
 
 
